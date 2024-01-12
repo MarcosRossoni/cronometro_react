@@ -1,0 +1,8 @@
+.timer-container {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    min-height: 50vh;
+    min-width: 400px;
+    background-color: #f5f5f5;
+}
